@@ -33,7 +33,7 @@ class DrawerTab extends StatelessWidget {
               onTap: () {
                 onClick(SETTENGS);
               },
-              child: Text("Settings",style: TextStyle(fontSize: 20),)),
+              child: Text("Setting",style: TextStyle(fontSize: 20),)),
         ],
       ),
     );
